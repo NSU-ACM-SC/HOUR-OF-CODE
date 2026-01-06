@@ -1,4 +1,6 @@
-# Hour of Code
+# Hour of Code 2026
+## Topic: Introduction to Scratch Programming Language
+## Duration: 1 hr
 
 ## 📘 Session Modules
 
