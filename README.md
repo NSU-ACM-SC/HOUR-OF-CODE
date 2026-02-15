@@ -1,5 +1,5 @@
 # Hour of Code 2026
-## Topic: Introduction to Scratch Programming Language
+## Topic: Introduction to Python for Computer Vision Tasks
 ## Duration: 1:30 hr
 
 
