@@ -1,6 +1,6 @@
-# Hour of Code 2026
-## Topic: Introduction to Python for Computer Vision Tasks
-## Duration: 1:30 hr
+# Hour of Code 
+![Alt text for the image](images/1.png)
+
 
 
 
